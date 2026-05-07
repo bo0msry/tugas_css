@@ -1,0 +1,31 @@
+body {
+    background-color: #dfefff;
+}
+h1 {
+    color: darkblue;
+}
+.teks {
+    font-size: 20px;
+}
+#kotak {
+    border: 3px dashed black;
+    padding: 10px;
+}
+ul li {
+    color: rgb(50, 42, 165);
+}
+a:hover {
+    color: rgb(163, 62, 141);
+}
+input:focus {
+    background-color: rgb(210, 144, 238);
+}
+img {
+    width: 250px;
+}
+div {
+    margin: 20px;
+}
+p {
+    font-family: Arial;
+}
